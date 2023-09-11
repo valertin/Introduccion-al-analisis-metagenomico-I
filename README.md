@@ -1,18 +1,21 @@
 # Introduccion-al-analisis-metagenomico-I
 Se detalla brevemente el objetivo del curso y los temas que se abordarán. 
 
+**Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California**
+**Departamento de Innovación Biomédica**
+**LGAC: Ciencias ómicas aplicadas al desarrollo biomédico y biotecnológico**
 
 **Introducción al Análisis Metagenómico I: Shotgun metagenomics**
 
 **Capacitadores:**
-- **Dr. Valentín Pérez-Hernández**
-- *Doctor en ciencias de los alimentos y biotecnología (Posdoctorante CINVESTAV)*
-- (http://orcid.org/0000-0001-9907-1316)
-- (https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2)
 - **Dr. Mario Hernández-Guzmán**
 - *Doctor en ciencias con la especialidad en biotecnología (Posdoctorante CICESE)*
 - (http://orcid.org/0000-0003-1420-6280)
 - (https://www.researchgate.net/profile/Mario-Hernandez-Guzman)
+- **Dr. Valentín Pérez-Hernández**
+- *Doctor en ciencias de los alimentos y biotecnología (Posdoctorante CINVESTAV)*
+- (http://orcid.org/0000-0001-9907-1316)
+- (https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2)
 
 **Resumen del curso:**
 	
@@ -58,4 +61,4 @@ Se detalla brevemente el objetivo del curso y los temas que se abordarán.
 **Cupo:**
 - *8 personas*
 
-![CINVESTAV LOGO](https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2021/06/CINVESTAV.png?w=1200&ssl=1), ![CICESE LOGO](https://www.cicese.edu.mx/assets/img/cicese.png)
+![CICESE LOGO](https://www.cicese.edu.mx/assets/img/cicese.png), ![CINVESTAV LOGO](https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2021/06/CINVESTAV.png?w=1200&ssl=1)
