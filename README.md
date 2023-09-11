@@ -1,8 +1,9 @@
 # Introduccion-al-analisis-metagenomico-I
-Se detalla brevemente el objetivo del curso y los temas que se abordarán. 
 
 **Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California**
+
 **Departamento de Innovación Biomédica**
+
 **LGAC: Ciencias ómicas aplicadas al desarrollo biomédico y biotecnológico**
 
 **Introducción al Análisis Metagenómico I: Shotgun metagenomics**
@@ -16,6 +17,9 @@ Se detalla brevemente el objetivo del curso y los temas que se abordarán.
 - *Doctor en ciencias de los alimentos y biotecnología (Posdoctorante CINVESTAV)*
 - (http://orcid.org/0000-0001-9907-1316)
 - (https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2)
+
+
+**Se detalla brevemente el objetivo del curso y los temas que se abordarán.**
 
 **Resumen del curso:**
 	
