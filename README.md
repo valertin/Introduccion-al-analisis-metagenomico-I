@@ -2,7 +2,7 @@
 Se detalla brevemente el objetivo del curso y los temas que se abordarán. 
 
 
-**Introducción al análisis de datos de microbioma (16S rRNA) empleando el software R**
+**Introducción al Análisis Metagenómico I: Shotgun metagenomics**
 
 **Capacitadores:**
 - **Dr. Valentín Pérez-Hernández**
